@@ -17,5 +17,5 @@ public class HostnCodeWebApp_AppHost
     /// <summary>
     /// The path to the Aspire Host project.
     /// </summary>
-    public static string ProjectPath => """D:\_Source\HostnCodeSite\HostnCodeWebApp\HostnCodeWebApp.AppHost""";
+    public static string ProjectPath => """/home/runner/work/HostnCodeSite/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.AppHost""";
 }

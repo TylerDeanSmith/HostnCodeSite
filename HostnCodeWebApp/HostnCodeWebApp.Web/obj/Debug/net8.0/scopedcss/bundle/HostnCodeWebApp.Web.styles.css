@@ -1,4 +1,4 @@
-/* _content/HostnCodeWebApp.Web/Components/Layout/MainLayout.razor.rz.scp.css */
+/* /Components/Layout/MainLayout.razor.rz.scp.css */
 .page[b-htwp1rz8z6] {
     position: relative;
     display: flex;
@@ -95,7 +95,7 @@ main[b-htwp1rz8z6] {
         right: 0.75rem;
         top: 0.5rem;
     }
-/* _content/HostnCodeWebApp.Web/Components/Layout/NavMenu.razor.rz.scp.css */
+/* /Components/Layout/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-h3y1r4pdqy] {
     appearance: none;
     cursor: pointer;
