@@ -31,3 +31,5 @@ project.fragment.lock.json
 artifacts/
 /HostnCodeWebApp/HostnCodeWebApp.ApiService/bin
 /HostnCodeWebApp/HostnCodeWebApp.ApiService/obj
+/HostnCodeWebApp/HostnCodeWebApp.ApiService/obj
+/HostnCodeWebApp/HostnCodeWebApp.ApiService/obj
