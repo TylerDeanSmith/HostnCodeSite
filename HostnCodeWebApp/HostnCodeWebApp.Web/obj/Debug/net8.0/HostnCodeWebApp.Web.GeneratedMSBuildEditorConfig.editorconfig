@@ -34,10 +34,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/runner/work/HostnCodeSite/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.Web/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [/home/runner/work/HostnCodeSite/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.Web/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -57,3 +53,15 @@ build_metadata.AdditionalFiles.CssScope = b-3ds1szbc7i
 [/home/runner/work/HostnCodeSite/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.Web/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-2bzmlk427o
+
+[/home/runner/work/HostnCodeSite/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.Web/Components/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BYm91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-lfz3o5rih9
+
+[/home/runner/work/HostnCodeSite/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.Web/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-mkb38s5ty2
+
+[/home/runner/work/HostnCodeSite/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.Web/Components/Pages/Services.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9TZXJ2aWNlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-ejhv0y9wfr

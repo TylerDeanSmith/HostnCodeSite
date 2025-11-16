@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HostnCodeWebApp.ApiService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e8f5bf2f2b97b0664a106ca8cb3772d779a6aa2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a77dfa7d1c8b92cdbecba607f411d0b59e6121e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("HostnCodeWebApp.ApiService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HostnCodeWebApp.ApiService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

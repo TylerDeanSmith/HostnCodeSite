@@ -149,3 +149,6 @@ D:/_Source/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.Web/obj/Debug/net8.0/re
 /home/runner/work/HostnCodeSite/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.Web/obj/Debug/net8.0/HostnCodeWebApp.Web.pdb
 /home/runner/work/HostnCodeSite/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.Web/obj/Debug/net8.0/HostnCodeWebApp.Web.genruntimeconfig.cache
 /home/runner/work/HostnCodeSite/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.Web/obj/Debug/net8.0/ref/HostnCodeWebApp.Web.dll
+/home/runner/work/HostnCodeSite/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.Web/obj/Debug/net8.0/scopedcss/Components/Pages/About.razor.rz.scp.css
+/home/runner/work/HostnCodeSite/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.Web/obj/Debug/net8.0/scopedcss/Components/Pages/Home.razor.rz.scp.css
+/home/runner/work/HostnCodeSite/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.Web/obj/Debug/net8.0/scopedcss/Components/Pages/Services.razor.rz.scp.css

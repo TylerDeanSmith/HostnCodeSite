@@ -1,0 +1,131 @@
+.hero-section {
+    text-align: center;
+    padding: 3rem 1rem;
+    background: linear-gradient(135deg, #006bb7 0%, #1b6ec2 100%);
+    color: white;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+}
+
+.hero-section h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.hero-section .lead {
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.company-intro {
+    margin-bottom: 3rem;
+}
+
+.company-intro h2 {
+    color: #1b6ec2;
+    margin-bottom: 1rem;
+}
+
+.technologies-section {
+    margin-bottom: 3rem;
+}
+
+.technologies-section h2 {
+    color: #1b6ec2;
+    margin-bottom: 1.5rem;
+}
+
+.tech-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.tech-card {
+    background: #f8f9fa;
+    padding: 1.5rem;
+    border-radius: 8px;
+    border: 2px solid #e9ecef;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.tech-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    border-color: #006bb7;
+}
+
+.tech-card h3 {
+    color: #1b6ec2;
+    margin-bottom: 0.5rem;
+    font-size: 1.25rem;
+}
+
+.tech-card p {
+    margin: 0;
+    color: #6c757d;
+}
+
+.service-model {
+    margin-bottom: 3rem;
+}
+
+.service-model h2 {
+    color: #1b6ec2;
+    margin-bottom: 1.5rem;
+}
+
+.service-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
+.service-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    border: 2px solid #e9ecef;
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.service-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+    border-color: #1b6ec2;
+}
+
+.service-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.service-card h3 {
+    color: #1b6ec2;
+    margin-bottom: 1rem;
+}
+
+.service-card p {
+    color: #6c757d;
+    line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+    .hero-section h1 {
+        font-size: 2rem;
+    }
+
+    .hero-section .lead {
+        font-size: 1.25rem;
+    }
+
+    .tech-grid {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
+
+    .service-grid {
+        grid-template-columns: 1fr;
+    }
+}

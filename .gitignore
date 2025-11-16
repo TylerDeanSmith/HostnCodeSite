@@ -1,1 +1,3 @@
 /HostnCodeWebApp/.vs
+**/bin/
+**/obj/
