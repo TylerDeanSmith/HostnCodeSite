@@ -15,5 +15,5 @@ public class HostnCodeWebApp_ApiService : global::Aspire.Hosting.IProjectMetadat
     /// <summary>
     /// The path to the HostnCodeWebApp_ApiService project.
     /// </summary>
-    public string ProjectPath => """D:\_Source\HostnCodeSite\HostnCodeWebApp\HostnCodeWebApp.ApiService\HostnCodeWebApp.ApiService.csproj""";
+    public string ProjectPath => """/home/runner/work/HostnCodeSite/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.ApiService/HostnCodeWebApp.ApiService.csproj""";
 }
