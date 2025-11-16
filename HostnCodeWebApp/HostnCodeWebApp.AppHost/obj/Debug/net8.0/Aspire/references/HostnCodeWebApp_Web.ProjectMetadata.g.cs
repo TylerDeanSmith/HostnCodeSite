@@ -15,5 +15,5 @@ public class HostnCodeWebApp_Web : global::Aspire.Hosting.IProjectMetadata
     /// <summary>
     /// The path to the HostnCodeWebApp_Web project.
     /// </summary>
-    public string ProjectPath => """D:\_Source\HostnCodeSite\HostnCodeWebApp\HostnCodeWebApp.Web\HostnCodeWebApp.Web.csproj""";
+    public string ProjectPath => """/home/runner/work/HostnCodeSite/HostnCodeSite/HostnCodeWebApp/HostnCodeWebApp.Web/HostnCodeWebApp.Web.csproj""";
 }
