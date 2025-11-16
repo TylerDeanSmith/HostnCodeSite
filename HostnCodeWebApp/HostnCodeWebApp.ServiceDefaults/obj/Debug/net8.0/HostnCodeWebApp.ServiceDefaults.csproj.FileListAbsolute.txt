@@ -1,0 +1,12 @@
+D:\_Source\HostnCodeSite\HostnCodeWebApp\HostnCodeWebApp.ServiceDefaults\bin\Debug\net8.0\HostnCodeWebApp.ServiceDefaults.deps.json
+D:\_Source\HostnCodeSite\HostnCodeWebApp\HostnCodeWebApp.ServiceDefaults\bin\Debug\net8.0\HostnCodeWebApp.ServiceDefaults.dll
+D:\_Source\HostnCodeSite\HostnCodeWebApp\HostnCodeWebApp.ServiceDefaults\bin\Debug\net8.0\HostnCodeWebApp.ServiceDefaults.pdb
+D:\_Source\HostnCodeSite\HostnCodeWebApp\HostnCodeWebApp.ServiceDefaults\obj\Debug\net8.0\HostnCodeWebApp.ServiceDefaults.csproj.AssemblyReference.cache
+D:\_Source\HostnCodeSite\HostnCodeWebApp\HostnCodeWebApp.ServiceDefaults\obj\Debug\net8.0\HostnCodeWebApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Source\HostnCodeSite\HostnCodeWebApp\HostnCodeWebApp.ServiceDefaults\obj\Debug\net8.0\HostnCodeWebApp.ServiceDefaults.AssemblyInfoInputs.cache
+D:\_Source\HostnCodeSite\HostnCodeWebApp\HostnCodeWebApp.ServiceDefaults\obj\Debug\net8.0\HostnCodeWebApp.ServiceDefaults.AssemblyInfo.cs
+D:\_Source\HostnCodeSite\HostnCodeWebApp\HostnCodeWebApp.ServiceDefaults\obj\Debug\net8.0\HostnCodeWebApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\_Source\HostnCodeSite\HostnCodeWebApp\HostnCodeWebApp.ServiceDefaults\obj\Debug\net8.0\HostnCodeWebApp.ServiceDefaults.dll
+D:\_Source\HostnCodeSite\HostnCodeWebApp\HostnCodeWebApp.ServiceDefaults\obj\Debug\net8.0\refint\HostnCodeWebApp.ServiceDefaults.dll
+D:\_Source\HostnCodeSite\HostnCodeWebApp\HostnCodeWebApp.ServiceDefaults\obj\Debug\net8.0\HostnCodeWebApp.ServiceDefaults.pdb
+D:\_Source\HostnCodeSite\HostnCodeWebApp\HostnCodeWebApp.ServiceDefaults\obj\Debug\net8.0\ref\HostnCodeWebApp.ServiceDefaults.dll
