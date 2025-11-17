@@ -33,3 +33,5 @@ artifacts/
 /HostnCodeWebApp/HostnCodeWebApp.ApiService/obj
 /HostnCodeWebApp/HostnCodeWebApp.Web/obj
 /HostnCodeWebApp/HostnCodeWebApp.AppHost/obj
+/HostnCodeWebApp/HostnCodeWebApp.ServiceDefaults/obj
+/HostnCodeWebApp/HostnCodeWebApp.Tests/obj
